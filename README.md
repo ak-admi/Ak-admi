@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Automation
 - 💬 Ask me about Software Development, testing, Political analysis
 - 📫 How to reach me: You can reache me alokhangari@gmail.com
-- ⚡ Fun fact: No fun about me
+- ⚡ Fun fact: I hate chocolate flavour
