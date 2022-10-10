@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as **Automation Engineer in HealthAsyst PVT LTD**
 
-- 🛫 Been part of the Pilot group of people who worked on BDD automation framework For HealthAsyst product
+- 🛫 Been part of the **Pilot** group of people who worked on **BDD automation framework For HealthAsyst product division**
 
 - 🌱 I’m currently learning **Java, Python and Automation**
 
