@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ak-admi&label=Profile%20views&color=0e75b6&style=flat" alt="ak-admi" /> </p>
 
-- 🔭 I’m currently working on **Automation Engineer**
+- 🔭 I’m currently working as **Automation Engineer in HealthAsyst PVT LTD**
+
+- 🛫 Been part of the Pilot group of people who worked on BDD automation framework For HealthAsyst product
 
 - 🌱 I’m currently learning **Java, Python and Automation**
 
