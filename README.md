@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ak-admi&label=Profile%20views&color=0e75b6&style=flat" alt="ak-admi" /> </p>
 
-- 🔭 I’m currently working as **Automation Engineer in HealthAsyst PVT LTD**
+- 🔭 I’m currently working as **Automation Engineer in S&P Global**
 
 - 🛫 Been part of the **Pilot** group of people who worked on **BDD automation framework For HealthAsyst product division**
 
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Software Development, Testing and Political Analysis**
 
-- 📫 How to reach me **alokhangari@gmail.com**
+- 📫 How to reach me **hangarialok@gmail.com**
 
 - ⚡ Fun fact **I hate chocolate flavor**
 
