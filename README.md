@@ -10,13 +10,13 @@
 - 🔭 Currently working as **Engineer II – Quality Engineering at S&P Global, Hyderabad**
 - 🚀 Actively transitioning into **Java Backend Development** (Spring Boot)
 - 🛠️ Building [**bankingapp**](https://github.com/ak-admi/bankingapp) — a hands-on Spring Boot learning project covering REST APIs, `@Transactional`, Optimistic/Pessimistic locking, and concurrency patterns
+- 🤖 Building a Gen AI Automation Test result analyser 
 - 🌱 Currently learning **Spring Boot · Spring Data JPA · REST API Design · Bean Validation**
 - 🤖 Led BDD automation framework setup for the **HealthAsyst product division** as part of the pilot group
 - 💼 Day-to-day: **C# · Reqnroll (BDD) · NUnit · Selenium · REST Assured** on the EBB MasterBook platform
 - 👨‍💻 All projects: [github.com/ak-admi](https://github.com/ak-admi)
-- 💬 Ask me about **Java · Spring Boot · Test Automation · BDD · SOLID Principles · Political Analysis**
+- 💬 Ask me about **Java · Spring Boot · Test Automation · BDD · SOLID Principles · Political Analysis · Trekking **
 - 📫 Reach me at **hangarialok@gmail.com**
-- ⚡ Fun fact: **I hate chocolate flavor**
 
 ---
 
